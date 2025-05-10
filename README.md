@@ -3,6 +3,8 @@
 **Authors:**  
 Jingyi Zhang, Haoxian Ruan, Andrew Nguyen, and Adam Mhal  
 **Emails:** jyz0328@bu.edu, rhx2000@bu.edu, aynguyen@bu.edu, adammhal@bu.edu
+**some files are too huge to upload to github, so plz go to google drive to take a look: https://drive.google.com/drive/u/1/folders/1MdR9WIQ8Kbv_Aq7Bg2KntPREfKzp0Utv :** 
+
 
 ---
 
