@@ -97,7 +97,7 @@ Contains all final results:
 ---
 
 ### V. `SAVED_MODEL/` Folder
-
+- **some data are too huge so that we cannot upload them via github. plz check GOOGLE DRIVE LINK ABOVE**
 Saved model checkpoints:
 
 - `AffectNet_CNN_Baseline_best_model.h5`
